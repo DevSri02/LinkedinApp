@@ -1,0 +1,27 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+### Java ###
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+### IntelliJ IDEA ###
+.idea/
+*.iml
+out/
+
+### Maven ###
+log/
+logs/
+!.mvn/wrapper/maven-wrapper.jar
+
+### OS ###
+.DS_Store
+Thumbs.db
+
+### Docker ###
+*.log
+docker-data/
